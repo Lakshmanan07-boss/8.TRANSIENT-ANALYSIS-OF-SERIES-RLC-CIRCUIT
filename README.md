@@ -30,7 +30,7 @@ Compare the calculated values and measured values of voltage in both the cases.
 <img width="1600" height="1311" alt="image" src="https://github.com/user-attachments/assets/123291c1-d429-4f64-8e27-c733694e3d3d" />
 
 
-**Calculation:**
+**Graph:**
 
 
 
